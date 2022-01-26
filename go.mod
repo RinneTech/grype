@@ -10,7 +10,7 @@ require (
 	github.com/anchore/go-version v1.2.2-0.20210903204242-51efa5b487c4
 	github.com/anchore/packageurl-go v0.0.0-20210922164639-b3fa992ebd29
 	github.com/anchore/stereoscope v0.0.0-20220110181730-c91cf94a3718
-	github.com/anchore/syft v0.36.0
+	github.com/anchore/syft v0.36.1-0.20220126161937-9f7104d4f194
 	github.com/bmatcuk/doublestar/v2 v2.0.4
 	github.com/docker/docker v20.10.11+incompatible
 	github.com/dustin/go-humanize v1.0.0
@@ -24,7 +24,6 @@ require (
 	github.com/hashicorp/go-getter v1.5.9
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/go-version v1.2.0
-	github.com/jinzhu/copier v0.3.2
 	github.com/jinzhu/gorm v1.9.14
 	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f
 	github.com/knqyf263/go-deb-version v0.0.0-20190517075300-09fca494f03d
